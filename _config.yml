@@ -5,22 +5,25 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+theme                  : "minimal-mistakes-jekyll"
+remote_theme           : "mmistakes/minimal-mistakes"
+  
 # Site Settings
 locale                   : "en-US"
-title                    : "Jack Hacks"
+title                    : "Steffin Stanly"
 title_separator          : "-"
-name                     : "Jack Halon"
-description              : "InfoSec Analyst/Pentester."
-url                      : "https://jhalon.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "jhalon/jhalon.github.io"
+name                     : "Steffin Stanly"
+description              : "Security Enthusiast"
+url                      : "steffinstanly.github.io"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
+repository               : "steffinstanly/steffinstanly.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "jhalon"
+    shortname            : "https-steffinstanly-github-io"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -72,35 +75,35 @@ social:
 analytics:
   provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-85282217-1"
+    tracking_id          : UA-120383404-1
 
 
 # Site Author
 author:
-  name             : "Jack Halon"
-  avatar           : "bio-photo.png"
-  bio              : "I like to break into things; both physically and virtually."
-  location         : "United States"
-  email            : "jacek.halon@gmail.com"
-  uri              :
+  name             : "Steffin Stanly"
+  avatar           : "biopic.png"
+  bio              : "Just a Noob Security Enthusiast Here"
+  location         : "India"
+  email            : "steffinstanly@gmail.com"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jhalon/"
+  github           : "steffinstanly/"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "jacek-halon-683912b0"
+  linkedin         : "steffinstanly"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "jack_halon"
+  twitter          : "steffinstanly"
   vine             :
   weibo            :
   xing             :
@@ -182,6 +185,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-seo-tag
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -190,7 +194,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+  - jekyll-seo-tag
 
 # Archives
 #  Type
