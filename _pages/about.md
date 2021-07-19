@@ -17,5 +17,5 @@ HTB Profile : <a href="https://www.hackthebox.eu/profile/11461" target="_blank">
 <img src="https://www.hackthebox.eu/badge/image/11461" alt="Hack The Box">
 
 
-Hackerone : <a href="https://www.hackerone.com/stevv" target="_blank">Hackerone.com/stevv</a>
+Hackerone : <a href="https://hackerone.com/stevv?type=user" target="_blank">Hackerone.com/stevv</a>
 
