@@ -11,11 +11,11 @@ Hi there,
    
 I will be mostly posting about security related topics and other projects hope you guys like it and feedback is much appreciated
 
-HTB Profile : <a href="https://www.hackthebox.eu/profile/11461<a href="Hackthebox.eu/profile/11461</a>
-
-
+HTB Profile : <a href="https://www.hackthebox.eu/profile/11461" target="_blank">Hackthebox.eu/profile/11461</a>
+            
+            
 <img src="https://www.hackthebox.eu/badge/image/11461" alt="Hack The Box">
 
 
-Hackerone : <a href="https://www.hackerone.com/stevv<a href="Hackerone.com/stevv</a>
+Hackerone : <a href="https://www.hackerone.com/stevv" target="_blank">Hackerone.com/stevv</a>
 
