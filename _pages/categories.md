@@ -10,7 +10,7 @@ permalink: /categories.html
 
 <h2>General</h2>
 <ul>
-<li><a href="https://steffinstanly.github.io/PWK-and-OSCP-Review/">OSCP</a></li>
+<li><a href="https://steffinstanly.github.io/PWK-and-OSCP-Review/">PWK & OSCP Review</a></li>
 </ul>
 
 <h2>Hack the Box</h2>
