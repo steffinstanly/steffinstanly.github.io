@@ -17,7 +17,7 @@ OSCP would be the toughest exam which I have given to date, After 24 hours of th
 
 ## preparation 
 
-I would recommend everyone to complete the [__TJ Null's OSCP list__](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0)"
+I would recommend everyone to complete the [__TJ Null's OSCP list__](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0){:target="_blank"}"
 before enrolling for the course. As multiple machines are quite similar to the OSCP labs.
 
 One month before starting the lab time, I had completed most of the machines from TJ Null's List and focused more on buffer overflow and privilege escalation.
@@ -102,7 +102,7 @@ Enumeration provided me the breakthrough and got the limited shell, after tinker
 * Machine 3 [20 pts] -
 Limited shell was attained without much sweat but root shell proved to be a headache and current point total stood at 60 when the lab report 5 points are included. 
 It was 6 PM and I started to get a dreaded feeling that I might not be able to complete it and I kept on enumerating further and with no luck, I switched over to the 
-25 pointer and 10 pointer machines and even these machines proved futile. So took a much-needed break and came back and got the root shell by 9:30 AM. The total now stood at 70 and I was happy to gain the passing points.
+25 pointer and 10 pointer machines and even these machines proved futile. So took a much-needed break and came back and got the root shell by 9:30 PM. The total now stood at 70 and I was happy to gain the passing points.
 
 * Machine 4 [10 pts] -
 I had to make sure of the passing score as there is a possibility of getting the 5 points rejected If I made any mistakes on my lab report. So in order to get a guaranteed pass
