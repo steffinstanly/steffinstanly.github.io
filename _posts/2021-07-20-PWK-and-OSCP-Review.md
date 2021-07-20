@@ -25,13 +25,13 @@ One month before starting the lab time, I had completed most of the machines fro
 The Udemy courses and Tryhackme rooms go hand in hand, the official materials lack a bit on the privilege escalation side and these courses would help in 
 overcoming those.
 
-- [Windows Privilege Escalation for OSCP & Beyond! - Udemy Course](https://www.udemy.com/course/windows-privilege-escalation/)
-  - [Windows Privilege Escalation - TryHackMe Room](https://tryhackme.com/room/windows10privesc)
-- [Linux Privilege Escalation for OSCP & Beyond! - Udemy Course](https://www.udemy.com/course/linux-privilege-escalation/)
-  - [Linux Privilege Escalation - TryHackMe Room](https://tryhackme.com/room/linuxprivesc)
-- [dostackbufferoverflowgood](https://github.com/justinsteven/dostackbufferoverflowgood)
-  - [Buffer Over Flow - TryHackMe Room](https://tryhackme.com/room/bufferoverflowprep)
-- [Proving Grounds](https://www.offensive-security.com/labs/individual/)
+- [Windows Privilege Escalation for OSCP & Beyond! - Udemy Course](https://www.udemy.com/course/windows-privilege-escalation/){:target="_blank"}
+  - [Windows Privilege Escalation - TryHackMe Room](https://tryhackme.com/room/windows10privesc){:target="_blank"}
+- [Linux Privilege Escalation for OSCP & Beyond! - Udemy Course](https://www.udemy.com/course/linux-privilege-escalation/){:target="_blank"}
+  - [Linux Privilege Escalation - TryHackMe Room](https://tryhackme.com/room/linuxprivesc){:target="_blank"}
+- [dostackbufferoverflowgood](https://github.com/justinsteven/dostackbufferoverflowgood){:target="_blank"}
+  - [Buffer Over Flow - TryHackMe Room](https://tryhackme.com/room/bufferoverflowprep){:target="_blank"}
+- [Proving Grounds](https://www.offensive-security.com/labs/individual/){:target="_blank"}
 
 All these are extra materials that would help in greatly speeding up the lab completion.
 
@@ -42,49 +42,49 @@ Most of the resources and tools listed here are based on my personal experience 
 than the quantity, I have tried to focus on quality resources that helped me.
 
 * Discord Group
-  - [Infosec-prep](https://discord.com/invite/infosecprep) 
+  - [Infosec-prep](https://discord.com/invite/infosecprep){:target="_blank"}
 * Enumeration
-  - [Autorecon](https://github.com/Tib3rius/AutoRecon)
-  - [nmapAutomator](https://github.com/21y4d/nmapAutomator)
-  - [Common Ports](https://sushant747.gitbooks.io/total-oscp-guide/content/list_of_common_ports.html)
+  - [Autorecon](https://github.com/Tib3rius/AutoRecon){:target="_blank"}
+  - [nmapAutomator](https://github.com/21y4d/nmapAutomator){:target="_blank"}
+  - [Common Ports](https://sushant747.gitbooks.io/total-oscp-guide/content/list_of_common_ports.html){:target="_blank"}
 * Windows Privilege Escalation
-  - [Windows Privilege Escalation - Checklist](https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md)
-  - [Windows Privilege Escalation](https://securism.wordpress.com/oscp-notes-privilege-escalation-windows/)
-  - [Windows Privilege Escalation - TryHackMe Room](https://tryhackme.com/room/windows10privesc)  -- This would help in greatly improving Privilege Escalation skills as it goes through all the available methods in much more depth.
+  - [Windows Privilege Escalation - Checklist](https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md){:target="_blank"}
+  - [Windows Privilege Escalation](https://securism.wordpress.com/oscp-notes-privilege-escalation-windows/){:target="_blank"}
+  - [Windows Privilege Escalation - TryHackMe Room](https://tryhackme.com/room/windows10privesc){:target="_blank"}  -- This would help in greatly improving Privilege Escalation skills as it goes through all the available methods in much more depth.
   - Tools:
-	- [WinPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS)
-	- [Seatbelt](https://github.com/GhostPack/Seatbelt)
-	- [wesng](https://github.com/bitsadmin/wesng)
-	- [Juicy Potato](https://github.com/ohpe/juicy-potato)
+	- [WinPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS){:target="_blank"}
+	- [Seatbelt](https://github.com/GhostPack/Seatbelt){:target="_blank"}
+	- [wesng](https://github.com/bitsadmin/wesng){:target="_blank"}
+	- [Juicy Potato](https://github.com/ohpe/juicy-potato){:target="_blank"}
 * Linux Privilege Escalation
-  - [Linux Privilege Escalation](https://payatu.com/guide-linux-privilege-escalation)
-  - [SUID List](https://pentestlab.blog/2017/09/25/suid-executables/)
-  - [GTFOBins](https://gtfobins.github.io/)
-  - [Linux Privilege Escalation - TryHackMe Room](https://tryhackme.com/room/linuxprivesc) -- Highly Recommended for improving Privilege Escalation skills
+  - [Linux Privilege Escalation](https://payatu.com/guide-linux-privilege-escalation){:target="_blank"}
+  - [SUID List](https://pentestlab.blog/2017/09/25/suid-executables/){:target="_blank"}
+  - [GTFOBins](https://gtfobins.github.io/){:target="_blank"}
+  - [Linux Privilege Escalation - TryHackMe Room](https://tryhackme.com/room/linuxprivesc){:target="_blank"} -- Highly Recommended for improving Privilege Escalation skills
   - Tools:
-	- [linux-smart-enumeration](https://github.com/diego-treitos/linux-smart-enumeration)
-	- [linPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS)
+	- [linux-smart-enumeration](https://github.com/diego-treitos/linux-smart-enumeration){:target="_blank"}
+	- [linPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS){:target="_blank"}
 * File Transfer Methods
-  - [Windows File Transfer](https://isroot.nl/2018/07/09/post-exploitation-file-transfers-on-windows-the-manual-way/)
-  - [Linux File Transfer](https://sushant747.gitbooks.io/total-oscp-guide/content/transfering_files.html)
+  - [Windows File Transfer](https://isroot.nl/2018/07/09/post-exploitation-file-transfers-on-windows-the-manual-way/){:target="_blank"}
+  - [Linux File Transfer](https://sushant747.gitbooks.io/total-oscp-guide/content/transfering_files.html){:target="_blank"}
 * Buffer Over Flow
-  - [dostackbufferoverflowgood](https://github.com/justinsteven/dostackbufferoverflowgood) -- Best resource to start BOF from scratch 
-  - [Buffer Over Flow - Checklist](https://github.com/Arken2/Everything-OSCP/blob/master/Checklists/WindowsBufferOverflowChecklist.pdf)
-  - [Buffer Over Flow - TryHackMe Room](https://tryhackme.com/room/bufferoverflowprep) -- Highly Recommended for identifying bad chars and for practice 
+  - [dostackbufferoverflowgood](https://github.com/justinsteven/dostackbufferoverflowgood){:target="_blank"} -- Best resource to start BOF from scratch 
+  - [Buffer Over Flow - Checklist](https://github.com/Arken2/Everything-OSCP/blob/master/Checklists/WindowsBufferOverflowChecklist.pdf){:target="_blank"}
+  - [Buffer Over Flow - TryHackMe Room](https://tryhackme.com/room/bufferoverflowprep){:target="_blank"} -- Highly Recommended for identifying bad chars and for practice 
 * Exam Report Template
-  - [Exam + Lab report](https://github.com/whoisflynn/OSCP-Exam-Report-Template)
+  - [Exam + Lab report](https://github.com/whoisflynn/OSCP-Exam-Report-Template){:target="_blank"}
 * Taking Notes
-  - [CherryTree](https://github.com/giuspen/cherrytree)
-  - [Joplin](https://github.com/laurent22/joplin)
-  - [OneNote](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app)
+  - [CherryTree](https://github.com/giuspen/cherrytree){:target="_blank"}
+  - [Joplin](https://github.com/laurent22/joplin){:target="_blank"}
+  - [OneNote](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app){:target="_blank"}
 * Mock Exam
-  - [OSCP Mock Exam Machines](https://github.com/six2dez/OSCP-Human-Guide/blob/master/README.md#exam-mockups)
+  - [OSCP Mock Exam Machines](https://github.com/six2dez/OSCP-Human-Guide/blob/master/README.md#exam-mockups){:target="_blank"}
 
 ## OSCP Exam
 
 The dreaded 24 hours, after getting cold feet for a couple of times in booking the slot for the exam, I finally scheduled the exam. I made a backup of my VM in case something goes wrong. Read through all the rules regarding the exam and kept a backup power supply and internet. Wrote down most of the general stuff in the report
 and created skeleton code for Buffer Overflow. To pass OSCP a minimum score of 70/100 is required and each machine has different points.
-I highly suggest you read the [OSCP Exam Guide](https://help.offensive-security.com/hc/en-us/articles/360040165632-OSCP-Exam-Guide) for more details on what is and isn’t allowed during the exam.
+I highly suggest you read the [OSCP Exam Guide](https://help.offensive-security.com/hc/en-us/articles/360040165632-OSCP-Exam-Guide){:target="_blank"} for more details on what is and isn’t allowed during the exam.
 
 To gain additional 5 points before the exam, you can submit a lab report consisting of 10 unique OSCP lab machines and a selected number of exercises from the materials.
 This lab report is submitted together with the exam report.
@@ -107,7 +107,7 @@ It was 6 PM and I started to get a dreaded feeling that I might not be able to c
 * Machine 4 [10 pts] -
 I had to make sure of the passing score as there is a possibility of getting the 5 points rejected If I made any mistakes on my lab report. So in order to get a guaranteed pass
 I started to work on the 10 pointer and got the root shell by 11:30 PM. Now I was thrilled about getting 80 points and completing OSCP. All the hard work proved to be worthwhile
-at that moment. Took a break and played the [Try Harder](https://www.offensive-security.com/offsec/say-try-harder/) song and enjoyed the moment for a while. 
+at that moment. Took a break and played the [Try Harder](https://www.offensive-security.com/offsec/say-try-harder/){:target="_blank"} song and enjoyed the moment for a while. 
 
 After laying down for a few minutes almost dozed off due to exhaustion and thought to complete the exam report and started to write the report by 2 AM, I had skipped the 25 pointer machine and focused on checking whether all the screenshots are there or not, as failure to do the exam report would result in failure. I had to retake a couple of screenshots to make the report was detailed enough. After 22 hours of exam time, Everything was re-checked and the exam report and lab report was sent in the specified format. 
 
@@ -123,7 +123,7 @@ On September 28, 2020, I received the mail stating that I had passed OSCP. Almos
 <div data-iframe-width="250" data-iframe-height="270" data-share-badge-id="6fd420ed-eafb-48ed-bff4-e442bcf5df15" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
-As of writing, I am currently vacillating between a couple of certifications and my next target from offsec side would be [OSWE](https://www.offensive-security.com/awae-oswe/).
+As of writing, I am currently vacillating between a couple of certifications and my next target from offsec side would be [OSWE](https://www.offensive-security.com/awae-oswe/){:target="_blank"}.
 
 ###  Exam Tips:
 
