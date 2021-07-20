@@ -108,7 +108,8 @@ I had to make sure of the passing score as there is a possibility of getting the
 I started to work on the 10 pointer and got the root shell by 11:30 PM. Now I was thrilled about getting 80 points and completing OSCP. All the hard work proved to be worthwhile
 at that moment. Took a break and played the [Try Harder](https://www.offensive-security.com/offsec/say-try-harder/) song and enjoyed the moment for a while. 
 
-After laying down for a few minutes almost dozed off due to exhaustion and thought to complete the exam report and started to write the report by 2 AM, I had skipped the 25 pointer machine and focused on checking whether all the screenshots are there or not, as failure to do the exam report would result in failure. I had to retake a couple of screenshots to make the report was detailed enough. Everything was re-checked and the exam report and lab report was sent in the specified format.
+After laying down for a few minutes almost dozed off due to exhaustion and thought to complete the exam report and started to write the report by 2 AM, I had skipped the 25 pointer machine and focused on checking whether all the screenshots are there or not, as failure to do the exam report would result in failure. I had to retake a couple of screenshots to make the report was detailed enough. After 22 hours of exam time, Everything was re-checked and the exam report and lab report was sent in the specified format. 
+
 
 ## Wrapping it Up
 
