@@ -31,7 +31,7 @@ overcoming those.
   - [Linux Privilege Escalation - TryHackMe Room](https://tryhackme.com/room/linuxprivesc)
 - [dostackbufferoverflowgood](https://github.com/justinsteven/dostackbufferoverflowgood)
   - [Buffer Over Flow - TryHackMe Room](https://tryhackme.com/room/bufferoverflowprep)
-- [Proving Grounds]https://www.offensive-security.com/labs/individual/)
+- [Proving Grounds](https://www.offensive-security.com/labs/individual/)
 
 All these are extra materials that would help in greatly speeding up the lab completion.
 
