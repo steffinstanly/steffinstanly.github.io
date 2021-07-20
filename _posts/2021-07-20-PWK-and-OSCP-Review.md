@@ -121,7 +121,7 @@ On September 28, 2020, I received the mail stating that I had passed OSCP. Almos
 <div data-iframe-width="250" data-iframe-height="270" data-share-badge-id="6fd420ed-eafb-48ed-bff4-e442bcf5df15" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
-As of writing, I am currently vacillating between a couple of certifications and the next one from the offsec side would be [OSWE](https://www.offensive-security.com/awae-oswe/).
+As of writing, I am currently vacillating between a couple of certifications and my next target from offsec side would be [OSWE](https://www.offensive-security.com/awae-oswe/).
 
 ###  Exam Tips:
 
