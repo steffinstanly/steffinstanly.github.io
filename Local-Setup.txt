@@ -1,0 +1,12 @@
+
+
+bundle exec jekyll serve
+
+
+
+bundle add webrick
+
+https://github.com/jekyll/jekyll/issues/8523
+
+
+{:target="_blank"}   --- for another tab 
