@@ -8,13 +8,17 @@ permalink: /categories.html
 ---
 
 
+<h2>General</h2>
+<ul>
+<li><a href="https://steffinstanly.github.io/PWK-and-OSCP-Review/">OSCP</a></li>
+</ul>
 
-<h1>Hack the Box</h1>
+<h2>Hack the Box</h2>
 <ul>
 <li><a href="https://steffinstanly.github.io/Hack-the-Box-Nibbles/">Nibbles</a></li>
 </ul>
 
-<h1>Network Security Projects</h1>
+<h2>Network Security Projects</h2>
 <ul>
 <li><a href="https://steffinstanly.github.io/Unbound-DNS-Blocking/">Unbound DNS Blocking</a></li>
 </ul>
