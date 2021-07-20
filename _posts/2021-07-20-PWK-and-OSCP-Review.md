@@ -35,6 +35,11 @@ overcoming those.
 
 All these are extra materials that would help in greatly speeding up the lab completion.
 
+> Penetration Testing with Kali Linux is a foundational security course, but still requires students to have certain knowledge prior to 
+attending the online training class. A solid understanding of TCP/IP, networking, and reasonable Linux skills are required. 
+Familiarity with Bash scripting along with basic Perl or Python is considered a plus. This advanced penetration testing course is not for the faint of heart; 
+it requires practice, testing, and the ability to want to learn in a manner that will grow your career in the information security field and overcome any learning plateau.
+
 
 ## Resources & Tools
 
