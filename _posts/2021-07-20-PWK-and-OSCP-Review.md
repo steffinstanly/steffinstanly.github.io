@@ -35,8 +35,7 @@ overcoming those.
 
 All these are extra materials that would help in greatly speeding up the lab completion.
 
-> Penetration Testing with Kali Linux is a foundational security course, but still requires students to have certain knowledge prior to 
-attending the online training class. A solid understanding of TCP/IP, networking, and reasonable Linux skills are required. 
+> Penetration Testing with Kali Linux is a foundational security course, but still requires students to have certain knowledge before attending the online training class. A solid understanding of TCP/IP, networking, and reasonable Linux skills are required. 
 Familiarity with Bash scripting along with basic Perl or Python is considered a plus. This advanced penetration testing course is not for the faint of heart; 
 it requires practice, testing, and the ability to want to learn in a manner that will grow your career in the information security field and overcome any learning plateau.
 
@@ -110,7 +109,7 @@ It was 6 PM and I started to get a dreaded feeling that I might not be able to c
 25 pointer and 10 pointer machines and even these machines proved futile. So took a much-needed break and came back and got the root shell by 9:30 PM. The total now stood at 70 and I was happy to gain the passing points.
 
 * Machine 4 [10 pts] -
-I had to make sure of the passing score as there is a possibility of getting the 5 points rejected If I made any mistakes on my lab report. So in order to get a guaranteed pass
+I had to make sure of the passing score as there is a possibility of getting the 5 points rejected If I made any mistakes on my lab report. So to get a guaranteed pass
 I started to work on the 10 pointer and got the root shell by 11:30 PM. Now I was thrilled about getting 80 points and completing OSCP. All the hard work proved to be worthwhile
 at that moment. Took a break and played the [Try Harder](https://www.offensive-security.com/offsec/say-try-harder/){:target="_blank"} song and enjoyed the moment for a while. 
 
@@ -144,6 +143,3 @@ As of writing, I am currently vacillating between a couple of certifications and
 * Have proper notes, everything should be a copy-paste away. 
 * Keep notes organized and have a skeleton code for BOF.
 * Have an outline for the exam report.
-
-
-
