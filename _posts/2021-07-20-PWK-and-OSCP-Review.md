@@ -56,6 +56,7 @@ than the quantity, I have tried to focus on quality resources that helped me.
   - [Windows Privilege Escalation](https://securism.wordpress.com/oscp-notes-privilege-escalation-windows/){:target="_blank"}
   - [Windows Privilege Escalation - TryHackMe Room](https://tryhackme.com/room/windows10privesc){:target="_blank"}  -- This would help in greatly improving Privilege Escalation skills as it goes through all the available methods in much more depth.
   - Tools:
+  	- [Complete Set of Windows PrivEsc Tools](https://github.com/Tib3rius/Windows-PrivEsc-Tools){:target="_blank"}
 	- [WinPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS){:target="_blank"}
 	- [Seatbelt](https://github.com/GhostPack/Seatbelt){:target="_blank"}
 	- [wesng](https://github.com/bitsadmin/wesng){:target="_blank"}
@@ -66,6 +67,7 @@ than the quantity, I have tried to focus on quality resources that helped me.
   - [GTFOBins](https://gtfobins.github.io/){:target="_blank"}
   - [Linux Privilege Escalation - TryHackMe Room](https://tryhackme.com/room/linuxprivesc){:target="_blank"} -- Highly Recommended for improving Privilege Escalation skills
   - Tools:
+  	- [Complete Set of Linux PrivEsc Tools](https://github.com/Tib3rius/Linux-PrivEsc-Tools){:target="_blank"} 
 	- [linux-smart-enumeration](https://github.com/diego-treitos/linux-smart-enumeration){:target="_blank"}
 	- [linPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS){:target="_blank"}
 * File Transfer Methods
