@@ -22,3 +22,10 @@ permalink: /categories.html
 <ul>
 <li><a href="https://steffinstanly.github.io/Unbound-DNS-Blocking/">Unbound DNS Blocking</a></li>
 </ul>
+
+<h2>CVEs</h2>
+<ul>
+<li><a href="https://steffinstanly.github.io/CVE-2022-2473-WP-UserOnline/">CVE-2022-2473</a></li>
+</ul>
+
+
