@@ -10,3 +10,14 @@ https://github.com/jekyll/jekyll/issues/8523
 
 
 {:target="_blank"}   --- for another tab 
+
+
+
+bundle install
+gem cleanup
+gem install bundler
+
+If there is issues with gem:
+gem uninstall thread_safe
+gem uninstall -i /usr/share/rubygems-integration/all thread_safe
+bundle update
