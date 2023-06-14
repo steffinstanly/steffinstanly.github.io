@@ -19,3 +19,4 @@ HTB Profile : <a href="https://www.hackthebox.eu/profile/11461" target="_blank">
 
 Hackerone : <a href="https://hackerone.com/stevv?type=user" target="_blank">Hackerone.com/stevv</a>
 
+Upwork : <a href="https://www.upwork.com/freelancers/steffin" target="_blank">upwork.com/steffin</a>
