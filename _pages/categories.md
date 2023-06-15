@@ -13,7 +13,7 @@ permalink: /categories.html
 <li><a href="https://steffinstanly.github.io/PWK-and-OSCP-Review/">PWK & OSCP Review</a></li>
 </ul>
 <ul>
-<li><a href="https://steffinstanly.github.io/OSEP-2023-Review/">OSEP 2023 Review</a></li>
+<li><a href="https://steffinstanly.github.io/OSEP-Review-2023/">OSEP Review 2023</a></li>
 </ul>
 
 <h2>Hack the Box</h2>
